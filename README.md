@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/myteampage">
+    <a href="https://github.com/thuri10/myteampage">
       Solution
     </a>
     <span> | </span>
@@ -38,7 +38,7 @@
 
 - Where can I see your demo?
 
-  [Demo page](https://github.com/thuri10/myteampage)
+  [Demo page](https://thuri10.github.io/myteampage)
 
 - What was your experience?
 
